@@ -1,0 +1,9 @@
+# Configuration du site
+title: Golbey
+description: Site web de la société Golbey
+url: "https://Golbey.github.io"
+baseurl: "" # Laissez vide pour GitHub Pages
+
+# Configuration Jekyll
+theme: minima # Utilisation du thème par défaut de Jekyll
+markdown: kramdown # Utilisation du moteur Markdown kramdown
