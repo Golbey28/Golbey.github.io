@@ -1,6 +1,6 @@
 # Configuration du site
 title: Golbey
-description: Site web de la société Golbey
+description: c'est une société spécialisée dans le développement des applications 
 url: "https://Golbey.github.io"
 baseurl: "" # Laissez vide pour GitHub Pages
 
