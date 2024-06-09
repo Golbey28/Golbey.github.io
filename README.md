@@ -70,7 +70,7 @@
         <p><h2>!Important!</h2></p>
         <p>
             la société Golbey ne possède aucun compte sur Telegram, Instagram ou Facebook. Notre équipe ne communique qu'à travers des emails et aucun de nos agents ne vous demandera des informations personnelles ou de l'argent pour quelque raison que ce soit, que ce soit pour un emploi au sein de notre société, une maintenance ou un achat. La plupart de nos achats se font directement via notre application ou sur un site où notre application ou logiciel est disponible à la vente. Pour des raisons de sécurité, aucun de nos agents ne possède de compte Telegram, Instagram, Facebook ou d'email personnel lié à notre société pour vous contacter.
-            Veuillez envoyer des messages uniquement à cette adresse pour les achats, la maintenance ou un emploi au sein de notre entreprise.
+ Veuillez envoyer des messages uniquement à cette adresse pour les achats, la maintenance ou un emploi au sein de notre entreprise.
             
         </p>
         
